@@ -1,0 +1,14 @@
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\UserLoaderPlugin.dll
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\UserLoaderPlugin.pdb
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\NLog.dll
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\PhoneApp.exe
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\NLog.xml
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\PhoneApp.pdb
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\UserLoaderPlugin.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\UserLoaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\UserLoad.CA592D0A.Up2Date
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\UserLoaderPlugin.dll
+C:\Users\Сергей\Desktop\UserLoaderPlugin\UserLoaderPlugin\obj\Debug\UserLoaderPlugin.pdb
